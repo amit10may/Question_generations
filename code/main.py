@@ -1,6 +1,6 @@
 from langchain.llms import OpenAI
 from jinja2 import Template
-from prompt_template import PROMPT_TEMPLATE
+from code.prompt_template import PROMPT_TEMPLATE
 
 class QaInput:
     @staticmethod
