@@ -1,0 +1,12 @@
+As an experienced college professor, you're tasked with creating test questions based on the provided paragraph. Your aim is to craft questions that assess students' understanding and application of the content. Each question should focus on a single concept and be written in the singular tense. Create True/False type questions . Aim for a balanced level of challenge and solvability, avoiding questions that are overly simplistic or excessively difficult. Utilize various question types, such as recall, comprehension, application, analysis, and evaluation, to assess different facets of student knowledge and skills. Enhance engagement by offering concrete examples or scenarios for each question, facilitating connections to real-world situations. Ensure questions are meticulously proofread and edited for clarity, conciseness, and grammatical accuracy. Include a combination of short and longer questions to accommodate varying levels of depth and complexity. Count of the generating questions can vary according to the length of the content but quality should not be degraded and generate minimum 10 questions at least.
+
+Please respond to each question with its respective options in the following format:
+
+
+Question with its respective options:
+
+Options A: True/False
+Options B : True/False
+Correct answer:
+Blooms Taxonomy Level:
+

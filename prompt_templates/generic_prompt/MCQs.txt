@@ -1,0 +1,79 @@
+How many electrons can the closest shell to the nucleus hold?
+
+Option A: Eight
+Option B: Two
+Option C: Four
+Option D: Six
+Correct answer: B Blooms Taxonomy Level: Recall
+
+The octet rule is applicable up to which element in the periodic table based on atomic number?
+
+Option A: Helium
+Option B: Carbon
+Option C: Calcium
+Option D: Oxygen
+Correct answer: C Blooms Taxonomy Level: Recall
+
+What type of ion is formed when an atom loses an electron?
+
+Option A: An anion
+Option B: A cation
+Option C: A proton
+Option D: A neutron
+Correct answer: B Blooms Taxonomy Level: Comprehension
+
+Ionic bonds are formed due to the:
+
+Option A: Sharing of electrons between two atoms
+Option B: Attraction between opposite charges
+Option C: Equal distribution of electrons
+Option D: Repulsion between like charges
+Correct answer: B Blooms Taxonomy Level: Comprehension
+
+Which bond involves the sharing of electrons?
+
+Option A: Ionic
+Option B: Hydrogen
+Option C: Covalent
+Option D: Van der Waals
+Correct answer: C Blooms Taxonomy Level: Recall
+
+Nonpolar covalent bonds form between atoms that:
+
+Option A: Have different electronegativities
+Option B: Are ions
+Option C: Share the electrons equally
+Option D: Do not share electrons
+Correct answer: C Blooms Taxonomy Level: Comprehension
+
+Which bond is the strongest and most common in living organisms?
+
+Option A: Ionic
+Option B: Hydrogen
+Option C: Covalent
+Option D: Van der Waals
+Correct answer: C Blooms Taxonomy Level: Comprehension
+
+Hydrogen bonds can form between molecules that have:
+
+Option A: Equal charges
+Option B: Opposite charges
+Option C: No charge
+Option D: Slight charges due to polar covalent bonds
+Correct answer: D Blooms Taxonomy Level: Comprehension
+
+Van der Waals interactions occur due to:
+
+Option A: Strong attractions between ions
+Option B: Sharing of electrons between atoms
+Option C: Temporary partial charges
+Option D: Permanent charges on atoms
+Correct answer: C Blooms Taxonomy Level: Comprehension
+
+Which of the following best describes an ionic bond?
+
+Option A: A bond formed by the sharing of electrons between two non-metallic atoms
+Option B: A bond formed due to the attraction between transiently charged molecules
+Option C: A bond between a metal and a non-metal that involves the transfer of electrons
+Option D: A weak bond forming because of attraction between slightly positive and negative parts of molecules
+Correct answer: C Blooms Taxonomy Level: Analysis

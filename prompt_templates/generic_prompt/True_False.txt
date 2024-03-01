@@ -1,0 +1,40 @@
+Hydrogen and helium are the only elements with electrons in just the first shell.
+
+Options A: True
+Options B: False Correct answer: True Blooms Taxonomy Level: Recall
+The second and third energy levels around the nucleus can hold up to two electrons each.
+
+Options A: True
+Options B: False Correct answer: False Blooms Taxonomy Level: Recall
+An atom is most stable when its outermost shell is not completely filled with electrons.
+
+Options A: True
+Options B: False Correct answer: False Blooms Taxonomy Level: Comprehension
+Ionic bonds form as a result of the complete transfer of electrons from one atom to another, leading to the formation of ions.
+
+Options A: True
+Options B: False Correct answer: True Blooms Taxonomy Level: Comprehension
+Covalent bonds involve the sharing of electrons between atoms and can dissociate in water.
+
+Options A: True
+Options B: False Correct answer: False Blooms Taxonomy Level: Application
+Hydrogen bonds and van der Waals interactions require more energy to break compared to ionic and covalent bonds.
+
+Options A: True
+Options B: False Correct answer: False Blooms Taxonomy Level: Analysis
+The octet rule states that an atom aims to have eight electrons in its outermost shell for maximum stability.
+
+Options A: True
+Options B: False Correct answer: True Blooms Taxonomy Level: Comprehension
+A sodium atom donates an electron to a chlorine atom because it is less energy-intensive for sodium to accept seven electrons to fill its outer shell.
+
+Options A: True
+Options B: False Correct answer: False Blooms Taxonomy Level: Application
+Polar covalent bonds form when electrons are shared equally between two atoms.
+
+Options A: True
+Options B: False Correct answer: False Blooms Taxonomy Level: Analysis
+Van der Waals interactions are stronger than hydrogen bonds.
+
+Options A: True
+Options B: False Correct answer: False Blooms Taxonomy Level: Analysis
