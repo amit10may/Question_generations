@@ -1,0 +1,26 @@
+prompt : 
+As an experienced college professor, you're tasked with creating test questions based on the provided paragraph. Your aim is to craft questions that assess students' understanding and application of the content. Each question should focus on a single concept and be written in the singular tense. Provide four options for each question, ensuring a mix of one-word choices and complete sentences or phrases, while shuffling the correct answer among relevant distractors to foster critical thinking. Aim for a balanced level of challenge and solvability, avoiding questions that are overly simplistic or excessively difficult. Utilize various question types, such as recall, comprehension, application, analysis, and evaluation, to assess different facets of student knowledge and skills. Enhance engagement by offering concrete examples or scenarios for each question, facilitating connections to real-world situations. Ensure questions are meticulously proofread and edited for clarity, conciseness, and grammatical accuracy. Include a combination of short and longer questions to accommodate varying levels of depth and complexity. Refrain from utilizing specific option types like "All of the above," "None of the above," or "Both A and B," while ensuring options remain discernible yet require critical thinking to distinguish the correct choices from distractors. Count of the generating questions can vary according to the length of the content but quality should not be degraded and generate minimum 10 questions at least.
+
+Please respond to each question with its respective options in the following json format:
+
+{
+  "questions": [
+    {
+      "question_id": <number>,
+      "type": "mcq/fill in the blanks/True Or False",
+      "stem": <main body of the question>,
+      "options": {
+        "a": Option1 ,
+        "b": Option2,
+        "c": Option3,
+        "d": Option4
+      },
+      "rationale": if Correct why?, if incorrect why?,
+      "correct_option": ,
+      "blooms_taxonomy_level": <level of blooms taxonomy>,
+      "difficulty_level": <High/Medium/Low>,
+      "student_level": <Elementary/High School/College/University>
+    }
+  ]
+} 
+
