@@ -1,5 +1,6 @@
 import streamlit as st
 from langchain.llms import OpenAI
+from langchain.callbacks import get_openai_callback
 from jinja2 import Template
 from prompt_template import PROMPT_TEMPLATE
 import pyperclip
@@ -54,7 +55,12 @@ def main():
 
             # Initialize OpenAI model
             llm = OpenAI(temperature=0, model_name="gpt-4")
-            prediction = llm.predict(prompt)
+            
+            # Capture details about token usage and cost.
+            with get_openai_callback() as cb:
+                prediction = llm.predict(prompt)
+                print(cb) # copy this information in a separate panel/section (possibly in left menu bottom)
+            
             # Display the generated questions
             st.write("Generated Questions:")
             if st.session_state["format"] == "plain_text":
