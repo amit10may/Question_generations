@@ -13,7 +13,7 @@ def generate_output(content_text):
 
     Kindly respond in the following format:
     Learning Obejective : <comma seperated>
-    keywords : <comma seperated>
+    Keywords : <comma seperated>
     """
 
     prompt = PromptTemplate.from_template(template=prompt_template)
