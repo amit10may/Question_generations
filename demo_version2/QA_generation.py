@@ -37,7 +37,7 @@ def main():
     keywords = st.text_area("Enter the keywords (separated by commas):", height=100)
     bloom_level = st.selectbox("Select the Bloom's taxonomy level:" , ("Remember", "Understand","Apply","Analyze","Evaluate","Create"))
     
-    ques_type = st.selectbox("Select the type of the questions:",("Multiple Type Questions","Fill In The Blanks" , "True False"))
+    ques_type = st.selectbox("Select the type of the questions:",("Multiple choice","Fill in the blanks" , "True or false"))
     json_checkbox = st.checkbox("JSON Output")
 
     if  json_checkbox:
